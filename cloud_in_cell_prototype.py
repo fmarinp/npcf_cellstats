@@ -14,7 +14,7 @@ work:
 1) Read a file and plot points (with a fixed file as of now) 
 2) Make the file a variable
 
-
+today is Wed 3/4/2013
 """
 
 import numpy as np
